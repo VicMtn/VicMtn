@@ -7,7 +7,7 @@ Web Developer in Formation
 Coming from another sector, I decided to retrain in IT and am currently in my first year of a graduate school in application development.
 
 * 🌍  I'm based in Switzerland
-* 🧠  I'm learning Laravel and Ruby on Rails
+* 🧠  I'm learning Laravel and Angular
 
 ### Skills
 
