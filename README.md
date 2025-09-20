@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on a factice crypto wallet, which users train their ability to understand the market<br>🌱 Learning AdonisJS<br>📕 Reading : [Dive into Design Patterns](https://refactoring.guru/store)
+🔭 Working on a factice crypto wallet, which users train their ability to understand the market<br>🌱 Learning AdonisJS<br>📕 Reading : [Dive into Design Patterns](https://refactoring.guru/design-patterns)
 
 
 ## 🌐 Socials:
